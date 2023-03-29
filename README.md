@@ -3,7 +3,7 @@
 - :heart: Ready for collaboration
 - :mailbox: markiewicz1029@gmail.com
 
-## Visit [Markiewicz-Dev.pl](https://markiewicz-dev.pl/)
+## Visit [codected.eu](https://codected.eu/)
 
 ### Currently working in:
 - ReactJS
